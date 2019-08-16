@@ -1,7 +1,7 @@
 def reverse_each_word(sentence1)
   words = sentance.split("")
   new_words = []
-  new_words = words.
+  new_words = words.collect{|char| char.reverse}
 end
 
 # def reverse_each_word(sentence)
