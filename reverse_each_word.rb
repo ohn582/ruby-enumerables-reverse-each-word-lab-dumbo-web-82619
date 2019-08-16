@@ -7,6 +7,10 @@ def reverse_each_word(sentence1)
   new_words.join(" ")
 end
 
+
+# counter = 0
+# pets = ["Dog", "Cat", "Fish", "Bird", "Hamster"]
+ 
 # while pets[counter] do
 #   puts pets[counter]
 #   counter += 1
