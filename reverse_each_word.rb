@@ -7,3 +7,7 @@ def reverse_each_word(sentence1)
   new_words.join(" ")
 end
 
+# while pets[counter] do
+#   puts pets[counter]
+#   counter += 1
+# end
